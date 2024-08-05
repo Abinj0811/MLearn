@@ -1,0 +1,10 @@
+# Ignore all .log files
+*.log
+
+# Ignore node_modules folder
+ml/
+
+# Ignore all files ending with .tmp
+*.csv
+
+
